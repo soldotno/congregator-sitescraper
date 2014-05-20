@@ -4,6 +4,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'Gamer.no',
         url: 'http://www.gamer.no',
+        linkref: 'url',
         tags: ['gaming', 'technology'],
         format: 'desktop',
         body: true,
@@ -23,7 +24,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -42,7 +43,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'ingress',
+                            name: 'description',
                             items: [
                                 {
                                     selector: 'p',
@@ -94,7 +95,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -152,7 +153,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -197,7 +198,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -246,7 +247,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -304,7 +305,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             items: [
                                 {
@@ -323,7 +324,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'ingress',
+                            name: 'description',
                             items: [
                                 {
                                     selector: 'div.archive-text p',
@@ -388,7 +389,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             required: true,
                             items: [
@@ -436,7 +437,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'ingress',
+                            name: 'description',
                             items: [
                                 {
                                     selector: 'span.df-img-container-inner a img',
@@ -500,7 +501,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'link',
+                            name: 'url',
                             type: 'url',
                             required: true,
                             items: [
@@ -547,7 +548,7 @@ exports = module.exports = [
                             ]
                         },
                         {
-                            name: 'ingress',
+                            name: 'description',
                             items: [
                                 {
                                     selector: 'span.df-img-container-inner a img',
