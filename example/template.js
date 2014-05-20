@@ -465,7 +465,7 @@ exports = module.exports = [
             ]
         }
     },
-        {
+    {
         active: true,
         origin: 'site',
         name: 'sol.no',
