@@ -76,6 +76,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'IGN Norge',
         url: 'http://no.ign.com',
+        linkref: 'url',
         tags: ['gaming', 'technology'],
         format: 'desktop',
         body: true,
@@ -109,7 +110,7 @@ exports = module.exports = [
                             required: true,
                             items: [
                                 {
-                                    selector: 'h3 a',
+                                    selector: 'h3 a'
                                 }
                             ]
                         },
@@ -134,6 +135,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'Pressfire.no',
         url: 'http://www.pressfire.no/',
+        linkref: 'url',
         tags: ['gaming', 'technology'],
         format: 'desktop',
         body: true,
@@ -286,6 +288,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'Spillfreak.no',
         url: 'http://www.spillfreak.no',
+        linkref: 'url',
         tags: ['gaming', 'technology'],
         format: 'desktop',
         body: true,
@@ -353,6 +356,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'Tv2 Nettavisen',
         url: 'http://www.nettavisen.no/',
+        linkref: 'url',
         tags: ['nyheter', 'innenriks'],
         format: 'desktop',
         body: true,
@@ -466,6 +470,7 @@ exports = module.exports = [
         origin: 'site',
         name: 'sol.no',
         url: 'http://www.sol.no/',
+        linkref: 'url',
         tags: ['nyheter', 'innenriks'],
         format: 'desktop',
         body: true,
