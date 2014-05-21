@@ -5,7 +5,7 @@ exports = module.exports = [
         name: 'Gamer.no',
         url: 'http://www.gamer.no',
         linkref: 'url',
-        tags: ['gaming', 'technology'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
@@ -77,7 +77,7 @@ exports = module.exports = [
         name: 'IGN Norge',
         url: 'http://no.ign.com',
         linkref: 'url',
-        tags: ['gaming', 'technology'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
@@ -136,7 +136,7 @@ exports = module.exports = [
         name: 'Pressfire.no',
         url: 'http://www.pressfire.no/',
         linkref: 'url',
-        tags: ['gaming', 'technology'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
@@ -173,7 +173,7 @@ exports = module.exports = [
                                 }
                             ]
                         },
-                        {   
+                        {
                             name: 'image',
                             type: 'url',
                             fallback: 'http://www.pressfire.no/gfx/pressfire-logo.png',
@@ -289,7 +289,7 @@ exports = module.exports = [
         name: 'Spillfreak.no',
         url: 'http://www.spillfreak.no',
         linkref: 'url',
-        tags: ['gaming', 'technology'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
@@ -357,7 +357,7 @@ exports = module.exports = [
         name: 'Tv2 Nettavisen',
         url: 'http://www.nettavisen.no/',
         linkref: 'url',
-        tags: ['nyheter', 'innenriks'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
@@ -471,7 +471,7 @@ exports = module.exports = [
         name: 'sol.no',
         url: 'http://www.sol.no/',
         linkref: 'url',
-        tags: ['nyheter', 'innenriks'],
+        category: 1,
         format: 'desktop',
         body: true,
         template: {
