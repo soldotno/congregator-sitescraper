@@ -14,7 +14,8 @@
     "request": "2.34.0",
     "cheerio": "0.13.1",
     "node-read": "0.1.4",
-    "html-entities": "1.0.10"
+    "html-entities": "1.0.10",
+    "iconv-lite": "0.2.11"
   },
   "devDependencies": {},
   "scripts": {
