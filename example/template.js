@@ -1,6 +1,7 @@
 exports = module.exports = [
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"VG.no - Reise",
       "url":"http://www.vg.no/forbruker/reise/",
@@ -61,6 +62,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"VG.no - Sport",
       "url":"http://www.vg.no/sport/",
@@ -121,6 +123,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Økonomi",
       "url":"http://www.dagbladet.no/okonomi/",
@@ -181,6 +184,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Bil og Motor",
       "url":"http://www.dagbladet.no/bil/",
@@ -241,6 +245,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Kultur",
       "url":"http://www.dagbladet.no/kultur/",
@@ -301,6 +306,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Kjendis",
       "url":"http://www.kjendis.no/",
@@ -361,6 +367,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Reise",
       "url":"http://www.dagbladet.no/reise/",
@@ -421,6 +428,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Side2.no - Mote",
       "url":"http://www.side2.no/mote/",
@@ -481,6 +489,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Side2.no - Helse",
       "url":"http://www.side2.no/helse/",
@@ -541,6 +550,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Mat",
       "url":"http://www.dagbladet.no/mat/",
@@ -601,6 +611,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Data",
       "url":"http://www.dagbladet.no/data/",
@@ -661,6 +672,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"ITavisen.no",
       "url":"http://www.itavisen.no/",
@@ -721,6 +733,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Dagbladet.no - Bolig",
       "url":"http://www.dagbladet.no/bolig/",
@@ -781,6 +794,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Aftenposten.no - Bolig",
       "url":"http://www.aftenposten.no/bolig/",
@@ -852,6 +866,7 @@ exports = module.exports = [
    },
    {
       "active":true,
+      "activeGlobal":true,
       "origin":"site",
       "name":"Aftenposten.no - Digital",
       "url":"http://www.aftenposten.no/digital/",
