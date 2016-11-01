@@ -8,14 +8,14 @@
     "email": "evullum@gmail.com"
   },
   "dependencies": {
-    "colors": "0.6.x",
-    "async": "0.7.x",
-    "debug": "0.8.x",
-    "request": "2.34.0",
-    "cheerio": "0.13.1",
-    "node-read": "0.1.4",
-    "html-entities": "1.0.10",
-    "iconv-lite": "0.2.11"
+    "colors": "~1.1.2",
+    "async": "~2.1.2",
+    "debug": "~2.2.0",
+    "request": "2.76.0",
+    "cheerio": "0.22.0",
+    "node-read": "0.1.7",
+    "html-entities": "1.2.0",
+    "iconv-lite": "0.4.13"
   },
   "devDependencies": {},
   "scripts": {
