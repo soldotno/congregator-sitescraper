@@ -1,6 +1,8 @@
 congregator-sitescraper
 =======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/congregator-sitescraper.svg)](https://greenkeeper.io/)
+
 Website crawler
 
 #Installation
